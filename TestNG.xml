@@ -11,7 +11,8 @@
 		<classes>
 			<class name="com.testcase.testcase_01"/>
 			<class name="com.testcase.Baseclass"/>
-			<class name="com.pageobject.Loginpage"/>			
+			<class name="com.pageobject.Loginpage"/>
+			<class name="com.testcase.Testcase_DDT_002"/>
 		</classes>	
 	</test>
 </suite>
